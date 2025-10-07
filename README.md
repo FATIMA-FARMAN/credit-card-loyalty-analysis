@@ -33,6 +33,7 @@ The analysis builds engineered features (`SPEND_TO_LIMIT`, `PAYMENT_TO_SPEND`, `
 - High spenders → potential upgrade to higher loyalty tier
 ### Featured Project: Credit Card Loyalty Analysis
 [![GitHub Repo](https://img.shields.io/badge/View on GitHub-000000?logo=github)](https://github.com/FATIMA-FARMAN/credit-card-loyalty-analysis)
+![Portfolio Banner](visuals/A_LinkedIn_carousel_post_in_the_image_consists_of_.png)
 
 **Goal:** Segment customers and estimate loyalty & LTV indicators from credit card usage data.
 
