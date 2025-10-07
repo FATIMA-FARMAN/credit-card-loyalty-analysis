@@ -1,4 +1,38 @@
 # Credit Card Loyalty Analysis (Mini-Project)
+# 💳 Credit Card Loyalty Analysis  
+**Business Insights Project | Fintech Analytics | Python + SQL**
+
+[![Made with Python](https://img.shields.io/badge/Made with-Python-blue.svg)](https://www.python.org/)
+[![SQL Ready](https://img.shields.io/badge/SQL-Queries Included-lightgrey.svg)](#)
+[![Data Visualization](https://img.shields.io/badge/Visuals-Matplotlib-orange.svg)](#)
+[![Layout](https://img.shields.io/badge/Layout-Business White-lightblue.svg)](#)
+
+> Analyze credit-card customer behavior to segment users by loyalty tiers  
+> (Bronze / Silver / Gold) and reveal spending vs repayment trends.
+
+📘 **Report:** [Credit_Card_Loyalty_Insights_White.pdf](reports/Credit_Card_Loyalty_Insights_White.pdf)  
+📊 **Visuals:** [Spend-to-Limit](visuals/dist_spend_to_limit.png) • [Payment-to-Spend](visuals/payment_to_spend_by_segment.png) • [Avg Spend](visuals/avg_spend_by_segment.png)
+![Portfolio Banner](visuals/A_LinkedIn_carousel_post_in_the_image_consists_of_.png)
+## 📈 Project Overview
+This project explores credit-card customer engagement and repayment patterns using a dataset of 8,950 records.  
+The analysis builds engineered features (`SPEND_TO_LIMIT`, `PAYMENT_TO_SPEND`, `ADVANCE_RATIO`, `FREQ_SCORE`) to segment customers and uncover key loyalty behaviors.
+
+### Highlights
+- Gold segment → ≈3 × higher average spend than Bronze  
+- Silver segment → balanced utilization & repayment ratio  
+- 28 % customers → minimum-payment risk flag  
+- High spenders → potential upgrade to higher loyalty tier
+## 📈 Project Overview
+This project explores credit-card customer engagement and repayment patterns using a dataset of 8,950 records.  
+The analysis builds engineered features (`SPEND_TO_LIMIT`, `PAYMENT_TO_SPEND`, `ADVANCE_RATIO`, `FREQ_SCORE`) to segment customers and uncover key loyalty behaviors.
+
+### Highlights
+- Gold segment → ≈3 × higher average spend than Bronze  
+- Silver segment → balanced utilization & repayment ratio  
+- 28 % customers → minimum-payment risk flag  
+- High spenders → potential upgrade to higher loyalty tier
+### Featured Project: Credit Card Loyalty Analysis
+[![GitHub Repo](https://img.shields.io/badge/View on GitHub-000000?logo=github)](https://github.com/FATIMA-FARMAN/credit-card-loyalty-analysis)
 
 **Goal:** Segment customers and estimate loyalty & LTV indicators from credit card usage data.
 
